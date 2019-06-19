@@ -39,5 +39,6 @@ for i in range(n):
         listt.insert(node2)
 # node3 = Node("baghu")
 # listt.insert(node3)
+print("Here is your list\n")
 listt.printList()
 
